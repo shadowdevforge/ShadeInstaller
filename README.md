@@ -54,12 +54,13 @@ sudo apt install lua5.4
 sudo dnf install lua
 ```
 
-### Installation
+### Installation & Preview
 
-#### Option 1: Direct Execution (Recommended)
+#### Option 1: Download & Execution
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/shadowdevforge/ShadeInstaller/main/install.lua | lua
+curl -O https://raw.githubusercontent.com/shadowdevforge/ShadeInstaller/refs/heads/master/install.lua
+lua install.lua
 ```
 
 #### Option 2: Preview Mode (Dry-Run)
@@ -67,16 +68,18 @@ curl -fsSL https://raw.githubusercontent.com/shadowdevforge/ShadeInstaller/main/
 Want to see what commands will run before executing? Use dry-run:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/shadowdevforge/ShadeInstaller/main/install.lua | lua --dry-run
+curl -O https://raw.githubusercontent.com/shadowdevforge/ShadeInstaller/refs/heads/master/install.lua
+lua install.lua --dry-run
 ```
+#### Option 2: Review Mode
 
-#### Option 3: Download & Inspect
+Want to see source code before executing? Use cat:
 
 ```bash
-curl -O https://raw.githubusercontent.com/shadowdevforge/ShadeInstaller/main/install.lua
-less install.lua  # Review the code
-lua install.lua
+curl -O https://raw.githubusercontent.com/shadowdevforge/ShadeInstaller/refs/heads/master/install.lua
+cat install.lua
 ```
+
 
 ---
 
