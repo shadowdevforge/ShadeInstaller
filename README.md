@@ -1,15 +1,7 @@
-<div align=center>
+<div align=center> 
 
-```
-                                                                                     
-                                                                                     
-▄█████ ▄▄ ▄▄  ▄▄▄  ▄▄▄▄  ▄▄▄▄▄   ██ ▄▄  ▄▄  ▄▄▄▄ ▄▄▄▄▄▄ ▄▄▄  ▄▄    ▄▄    ▄▄▄▄▄ ▄▄▄▄  
-▀▀▀▄▄▄ ██▄██ ██▀██ ██▀██ ██▄▄    ██ ███▄██ ███▄▄   ██  ██▀██ ██    ██    ██▄▄  ██▄█▄ 
-█████▀ ██ ██ ██▀██ ████▀ ██▄▄▄   ██ ██ ▀██ ▄▄██▀   ██  ██▀██ ██▄▄▄ ██▄▄▄ ██▄▄▄ ██ ██ 
-                                                                                     
-```
-
-> **A beautiful, intelligent, cross-distribution Linux setup wizard that actually respects your time.**
+# Shade Installer
+  **A beautiful, intelligent, cross-distribution Linux setup wizard that actually respects your time.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-%2346D9F6.svg)](LICENSE)
 [![Lua](https://img.shields.io/badge/Lua-5.1+-%23F38BA8.svg)](https://www.lua.org/)
