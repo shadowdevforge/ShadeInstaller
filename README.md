@@ -1,22 +1,22 @@
-# ShadeInstaller
+<div align=center>
 
 ```
-
-        ▄█████ ▄▄ ▄▄  ▄▄▄  ▄▄▄▄  ▄▄▄▄▄    
-        ▀▀▀▄▄▄ ██▄██ ██▀██ ██▀██ ██▄▄     
-        █████▀ ██ ██ ██▀██ ████▀ ██▄▄▄    
-                                                                                             
-██ ▄▄  ▄▄  ▄▄▄▄ ▄▄▄▄▄▄ ▄▄▄  ▄▄    ▄▄    ▄▄▄▄▄ ▄▄▄▄ 
-██ ███▄██ ███▄▄   ██  ██▀██ ██    ██    ██▄▄  ██▄█▄
-██ ██ ▀██ ▄▄██▀   ██  ██▀██ ██▄▄▄ ██▄▄▄ ██▄▄▄ ██ ██
-
+                                                                                     
+                                                                                     
+▄█████ ▄▄ ▄▄  ▄▄▄  ▄▄▄▄  ▄▄▄▄▄   ██ ▄▄  ▄▄  ▄▄▄▄ ▄▄▄▄▄▄ ▄▄▄  ▄▄    ▄▄    ▄▄▄▄▄ ▄▄▄▄  
+▀▀▀▄▄▄ ██▄██ ██▀██ ██▀██ ██▄▄    ██ ███▄██ ███▄▄   ██  ██▀██ ██    ██    ██▄▄  ██▄█▄ 
+█████▀ ██ ██ ██▀██ ████▀ ██▄▄▄   ██ ██ ▀██ ▄▄██▀   ██  ██▀██ ██▄▄▄ ██▄▄▄ ██▄▄▄ ██ ██ 
+                                                                                     
 ```
 
 > **A beautiful, intelligent, cross-distribution Linux setup wizard that actually respects your time.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Lua](https://img.shields.io/badge/Lua-5.1+-purple.svg)](https://www.lua.org/)
-[![Distros](https://img.shields.io/badge/Supports-Arch%20%7C%20Debian%20%7C%20Fedora-green.svg)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-%2346D9F6.svg)](LICENSE)
+[![Lua](https://img.shields.io/badge/Lua-5.1+-%23F38BA8.svg)](https://www.lua.org/)
+[![Distros](https://img.shields.io/badge/Supports-Arch%20%7C%20Debian%20%7C%20Fedora-%23A6E1D4.svg)]()
+
+
+</div>
 
 ---
 
