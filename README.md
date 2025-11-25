@@ -71,7 +71,7 @@ Want to see what commands will run before executing? Use dry-run:
 curl -O https://raw.githubusercontent.com/shadowdevforge/ShadeInstaller/refs/heads/master/install.lua
 lua install.lua --dry-run
 ```
-#### Option 2: Review Mode
+#### Option 3: Review Mode
 
 Want to see source code before executing? Use cat:
 
